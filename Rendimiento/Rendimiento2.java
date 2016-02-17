@@ -1,5 +1,6 @@
 import java.util.*;
 //Hola desde local
+//Hola desde el remoto
 public class Rendimiento2 {
 
 	static Scanner lectura = new Scanner(System.in);
@@ -53,7 +54,7 @@ public class Rendimiento2 {
 		System.out.print("Ingrese la Cantidad Numeros : ");
 		longitud = lectura.nextInt();
 
-		// Creando un arreglo de tamaño longitud
+		// Creando un arreglo de tamaÃ±o longitud
 		Arreglo = new int[longitud];
 
 		// Leer todos los numero a ordenar
