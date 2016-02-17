@@ -1,5 +1,5 @@
 import java.util.*;
-
+//Hola desde local
 public class Rendimiento2 {
 
 	static Scanner lectura = new Scanner(System.in);
